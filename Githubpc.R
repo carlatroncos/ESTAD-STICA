@@ -34,3 +34,4 @@ View(coronavirus)
 ###Análisis
 
 str(coronavirus)
+#comentario de prueba
